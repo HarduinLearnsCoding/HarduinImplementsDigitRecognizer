@@ -1,4 +1,4 @@
-# Statistical Pattern Recognition (ENEE633)
+# Analysis of ML models on MNIST + Transfer Learning using Xception
 
 1. The project requires certain dependencies to be installed. These are common libraries such as tensor flow, scikitlearn, pandas, numpy and so on and so forth. Please check the dependencies section of the jupyter notebook to see which libraries need to be installed. 
 
